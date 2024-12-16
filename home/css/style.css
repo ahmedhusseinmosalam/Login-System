@@ -1,0 +1,19 @@
+body{
+    background-color: #24353F;
+}
+.group{
+    background-color: rgba(27, 65, 88, 0.9);
+    margin: 50px auto;
+    padding: 20px 30px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.group p{
+    font-size: 45px;
+    font-weight: 500;
+    color: #17A2B8;
+    
+}
